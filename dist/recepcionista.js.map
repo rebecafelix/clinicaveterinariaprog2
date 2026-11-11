@@ -1,0 +1,1 @@
+{"version":3,"file":"recepcionista.js","sourceRoot":"","sources":["../src/recepcionista.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,kBAAkB,CAAC;AAE/C,MAAM,OAAO,aAAc,SAAQ,WAAW;IAClC,uBAAuB,GAAW,CAAC,CAAC;IAE5C,oBAAoB;QAChB,IAAI,CAAC,uBAAuB,EAAE,CAAC;IACnC,CAAC;IAED,aAAa;QACT,OAAO,IAAI,CAAC,uBAAuB,GAAG,EAAE,CAAC;IAC7C,CAAC;CACJ"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"Veterinario.js","sourceRoot":"","sources":["../src/Veterinario.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,kBAAkB,CAAC;AAE/C,MAAM,OAAO,WAAY,SAAQ,WAAW;IAChC,mBAAmB,GAAW,CAAC,CAAC;IAExC,iBAAiB;QACb,IAAI,CAAC,mBAAmB,EAAE,CAAC;IAC/B,CAAC;IAED,aAAa;QACT,OAAO,IAAI,CAAC,mBAAmB,GAAG,EAAE,CAAC;IACzC,CAAC;CACJ"}
